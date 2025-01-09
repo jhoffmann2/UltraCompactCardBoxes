@@ -1,7 +1,7 @@
 # UltraCompactCardBoxes
-This program utilizes OpenSCAD and FreeCAD to generate card box models (originally designed for dominion) that can compact multiple decks into a very small space. 
+This program utilizes OpenSCAD and FreeCAD to generate card box models (originally designed for dominion) that can compact multiple decks into a very small space.
 
-##To create box designs:
+## To create box designs:
 Inside the SCAD directory, copy or modify an existing CONFIG_ file. Here you can add decks, remove decks, and change the number of cards in the decks.
 
 ## Generate the box designs: 
